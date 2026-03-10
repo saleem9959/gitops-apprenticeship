@@ -1,2 +1,6 @@
 adding another file from dev
+<<<<<<< HEAD
 this is line from VS code udpated as per testing 
+=======
+updating this code 
+>>>>>>> dev
